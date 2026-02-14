@@ -1,0 +1,201 @@
+order_id,customer_id,order_date,product_category,product_name,quantity,price,revenue,region,payment_method
+1,52,2026-10-22,Books,Novel,3,1729,5187,East,UPI
+2,15,2026-08-31,Home,Cushion,2,1218,2436,East,Cash
+3,72,2026-07-18,Toys,Doll,4,1940,7760,West,Card
+4,61,2026-11-04,Clothing,Jacket,1,1704,1704,North,UPI
+5,21,2026-11-11,Home,Table,4,417,1668,South,Cash
+6,75,2026-10-02,Clothing,Jeans,5,335,1675,East,Card
+7,75,2026-07-05,Books,Comics,3,433,1299,South,Cash
+8,24,2026-08-17,Electronics,Headphones,1,475,475,South,Card
+9,3,2026-09-08,Books,Notebook,1,1582,1582,East,Cash
+10,22,2026-10-03,Home,Lamp,5,1260,6300,South,Cash
+11,53,2026-06-07,Clothing,Jacket,5,687,3435,East,UPI
+12,2,2026-11-28,Clothing,Shirt,2,1670,3340,South,Cash
+13,30,2026-11-21,Toys,Puzzle,3,612,1836,East,Card
+14,38,2026-10-25,Clothing,Jeans,3,1419,4257,North,Card
+15,2,2026-11-02,Toys,Board Game,4,1443,5772,West,UPI
+16,64,2026-07-08,Electronics,Laptop,2,1017,2034,East,Card
+17,60,2026-09-03,Home,Lamp,2,1695,3390,East,Card
+18,21,2026-06-03,Toys,Board Game,2,1955,3910,West,Card
+19,33,2026-10-18,Electronics,Smartwatch,2,1472,2944,East,Cash
+20,58,2026-08-25,Clothing,Dress,3,1963,5889,East,Cash
+21,22,2026-09-16,Clothing,Shirt,3,1902,5706,South,Card
+22,49,2026-07-26,Electronics,Headphones,2,972,1944,West,UPI
+23,59,2026-09-17,Clothing,Shirt,4,1352,5408,North,Cash
+24,42,2026-05-29,Electronics,Headphones,1,369,369,East,UPI
+25,60,2026-10-03,Toys,Puzzle,1,1951,1951,West,Card
+26,15,2026-07-14,Toys,Action Figure,4,897,3588,South,Card
+27,62,2026-10-14,Electronics,Phone,2,1414,2828,North,Cash
+28,62,2026-07-03,Toys,Board Game,3,824,2472,West,Card
+29,47,2026-11-03,Toys,Doll,1,1288,1288,North,Cash
+30,62,2026-06-05,Toys,Puzzle,5,104,520,North,Card
+31,51,2026-09-03,Books,Notebook,5,950,4750,North,Card
+32,55,2026-10-21,Home,Cushion,4,1502,6008,East,Cash
+33,64,2026-07-14,Clothing,Shirt,2,177,354,East,Cash
+34,3,2026-10-05,Books,Novel,1,1533,1533,South,Cash
+35,51,2026-10-22,Toys,Board Game,2,673,1346,South,Card
+36,7,2026-10-26,Electronics,Phone,1,231,231,West,Card
+37,21,2026-07-20,Toys,Doll,4,700,2800,South,UPI
+38,73,2026-09-24,Home,Chair,4,1872,7488,North,Cash
+39,39,2026-11-04,Toys,Doll,5,1165,5825,North,Card
+40,18,2026-10-26,Electronics,Laptop,2,188,376,East,Card
+41,4,2026-09-20,Home,Cushion,5,501,2505,North,Cash
+42,60,2026-08-10,Toys,Puzzle,2,395,790,West,UPI
+43,14,2026-09-17,Home,Cushion,5,1963,9815,North,Cash
+44,9,2026-11-07,Clothing,Shirt,3,1418,4254,North,UPI
+45,53,2026-11-09,Clothing,Shirt,3,715,2145,West,Card
+46,2,2026-09-08,Toys,Action Figure,3,1649,4947,South,UPI
+47,60,2026-08-19,Home,Chair,3,899,2697,South,Card
+48,71,2026-09-16,Electronics,Smartwatch,1,1814,1814,West,Cash
+49,44,2026-09-03,Toys,Doll,3,1760,5280,East,Cash
+50,8,2026-10-27,Clothing,Shirt,4,521,2084,North,Cash
+51,47,2026-08-28,Clothing,Jacket,4,1988,7952,West,UPI
+52,35,2026-10-20,Toys,Board Game,1,1146,1146,North,Card
+53,36,2026-10-02,Home,Chair,3,674,2022,East,Cash
+54,50,2026-09-14,Clothing,Dress,3,242,726,North,Cash
+55,4,2026-08-17,Home,Table,3,1092,3276,West,Card
+56,2,2026-12-07,Clothing,Jacket,5,764,3820,North,Cash
+57,6,2026-07-20,Clothing,Dress,2,244,488,South,Card
+58,54,2026-11-06,Books,Novel,5,1348,6740,East,Card
+59,4,2026-12-02,Clothing,Jeans,2,1106,2212,East,Card
+60,54,2026-11-12,Electronics,Headphones,3,602,1806,East,Card
+61,63,2026-11-04,Toys,Puzzle,3,920,2760,West,Card
+62,18,2026-08-03,Toys,Puzzle,5,1739,8695,East,UPI
+63,44,2026-06-29,Home,Lamp,5,203,1015,South,Cash
+64,34,2026-10-16,Clothing,Jacket,2,1162,2324,West,UPI
+65,74,2026-06-17,Electronics,Headphones,4,297,1188,South,Cash
+66,62,2026-07-14,Home,Chair,2,1769,3538,North,UPI
+67,14,2026-10-22,Books,Novel,5,678,3390,North,Card
+68,48,2026-10-02,Home,Lamp,5,490,2450,North,Cash
+69,15,2026-10-10,Home,Lamp,1,1302,1302,North,Cash
+70,72,2026-10-09,Clothing,Jacket,5,653,3265,South,UPI
+71,62,2026-12-08,Books,Magazine,1,1571,1571,West,UPI
+72,40,2026-10-19,Home,Table,4,1623,6492,West,Cash
+73,53,2026-10-02,Electronics,Phone,2,1138,2276,East,UPI
+74,24,2026-06-29,Electronics,Headphones,2,1746,3492,South,UPI
+75,26,2026-11-19,Toys,Board Game,1,1792,1792,North,UPI
+76,60,2026-11-30,Books,Comics,2,1412,2824,South,Card
+77,41,2026-09-19,Books,Magazine,5,577,2885,East,Card
+78,29,2026-09-23,Toys,Board Game,3,1354,4062,East,UPI
+79,15,2026-06-18,Home,Cushion,1,1022,1022,South,UPI
+80,45,2026-11-01,Books,Comics,2,519,1038,South,Card
+81,65,2026-07-04,Electronics,Smartwatch,1,256,256,South,Card
+82,71,2026-09-13,Electronics,Smartwatch,1,649,649,West,Cash
+83,9,2026-07-17,Clothing,Dress,3,1564,4692,North,Cash
+84,1,2026-11-25,Books,Novel,5,1220,6100,South,Card
+85,8,2026-06-04,Home,Cushion,1,1120,1120,South,UPI
+86,63,2026-06-23,Toys,Doll,2,1096,2192,South,UPI
+87,11,2026-06-23,Toys,Board Game,4,1534,6136,East,UPI
+88,8,2026-06-17,Home,Cushion,1,1050,1050,East,UPI
+89,35,2026-06-26,Clothing,Jeans,1,388,388,West,Cash
+90,35,2026-09-01,Toys,Board Game,3,1377,4131,North,Card
+91,33,2026-06-24,Books,Comics,5,295,1475,West,UPI
+92,5,2026-09-15,Clothing,Dress,4,697,2788,North,Cash
+93,41,2026-12-05,Books,Comics,2,1957,3914,East,UPI
+94,28,2026-07-27,Electronics,Smartwatch,4,1645,6580,East,Card
+95,7,2026-07-14,Clothing,Dress,2,616,1232,East,Cash
+96,73,2026-10-21,Toys,Puzzle,5,1758,8790,West,Card
+97,72,2026-05-31,Clothing,Shirt,2,1965,3930,South,Card
+98,12,2026-07-01,Clothing,Dress,3,964,2892,South,Cash
+99,34,2026-12-05,Clothing,Dress,3,1241,3723,East,Cash
+100,33,2026-07-15,Clothing,Jacket,3,905,2715,South,Cash
+101,48,2026-06-13,Books,Comics,3,1282,3846,South,Cash
+102,23,2026-11-15,Electronics,Headphones,4,914,3656,West,Cash
+103,62,2026-11-01,Home,Chair,5,327,1635,North,Cash
+104,37,2026-07-12,Clothing,Shirt,2,315,630,East,Cash
+105,44,2026-09-21,Toys,Puzzle,2,1047,2094,East,UPI
+106,35,2026-06-02,Clothing,Shirt,3,1819,5457,West,Card
+107,65,2026-09-03,Toys,Board Game,3,114,342,West,Cash
+108,47,2026-09-28,Books,Novel,1,1280,1280,South,UPI
+109,3,2026-07-03,Toys,Board Game,5,1771,8855,East,UPI
+110,1,2026-06-20,Home,Cushion,4,1384,5536,North,UPI
+111,5,2026-08-28,Electronics,Phone,2,1280,2560,West,Card
+112,14,2026-07-12,Toys,Puzzle,1,146,146,North,Cash
+113,27,2026-11-24,Toys,Doll,1,423,423,North,UPI
+114,9,2026-08-30,Electronics,Headphones,2,943,1886,East,Card
+115,15,2026-09-03,Home,Chair,4,1808,7232,East,Card
+116,42,2026-12-01,Clothing,Jeans,1,229,229,West,Card
+117,51,2026-09-20,Toys,Doll,1,1534,1534,East,UPI
+118,63,2026-12-04,Electronics,Headphones,5,194,970,East,Cash
+119,52,2026-11-03,Books,Magazine,4,726,2904,East,UPI
+120,4,2026-11-04,Electronics,Phone,1,854,854,North,UPI
+121,23,2026-08-02,Books,Notebook,4,1415,5660,West,Cash
+122,15,2026-10-02,Home,Chair,2,893,1786,South,Cash
+123,43,2026-06-14,Clothing,Jeans,3,1934,5802,North,Cash
+124,29,2026-06-21,Electronics,Laptop,1,1406,1406,East,Card
+125,36,2026-07-20,Toys,Board Game,5,168,840,North,Cash
+126,13,2026-07-24,Home,Lamp,2,1783,3566,East,UPI
+127,32,2026-08-02,Electronics,Laptop,4,110,440,East,Cash
+128,71,2026-09-08,Toys,Action Figure,2,1377,2754,North,UPI
+129,59,2026-11-17,Electronics,Phone,1,1965,1965,West,Card
+130,28,2026-06-20,Books,Novel,4,971,3884,East,UPI
+131,66,2026-09-18,Electronics,Headphones,3,649,1947,West,UPI
+132,42,2026-06-28,Electronics,Smartwatch,2,1257,2514,South,Cash
+133,45,2026-11-18,Electronics,Phone,1,811,811,East,Cash
+134,62,2026-08-21,Home,Lamp,5,122,610,West,UPI
+135,57,2026-10-25,Electronics,Phone,4,914,3656,West,Cash
+136,6,2026-12-07,Toys,Doll,2,445,890,South,Card
+137,28,2026-10-01,Books,Magazine,2,401,802,West,Card
+138,28,2026-10-29,Books,Notebook,3,462,1386,West,Cash
+139,44,2026-10-04,Electronics,Phone,3,495,1485,South,Card
+140,30,2026-06-13,Home,Table,5,317,1585,East,Cash
+141,62,2026-09-08,Home,Chair,5,240,1200,West,UPI
+142,75,2026-11-04,Toys,Doll,1,1739,1739,West,UPI
+143,62,2026-10-11,Electronics,Headphones,1,1057,1057,West,Card
+144,1,2026-07-09,Books,Novel,5,1333,6665,North,Cash
+145,27,2026-11-19,Home,Lamp,5,1084,5420,South,Cash
+146,62,2026-07-05,Electronics,Headphones,4,1092,4368,North,Card
+147,3,2026-11-13,Home,Table,3,1746,5238,South,UPI
+148,70,2026-06-22,Home,Chair,1,1739,1739,East,Card
+149,72,2026-09-03,Books,Novel,3,927,2781,East,UPI
+150,27,2026-07-16,Clothing,Shirt,3,782,2346,West,Cash
+151,9,2026-10-27,Toys,Doll,5,1583,7915,South,UPI
+152,62,2026-10-26,Toys,Puzzle,4,1103,4412,East,Card
+153,37,2026-06-09,Books,Notebook,2,455,910,South,Cash
+154,51,2026-07-26,Home,Table,4,1107,4428,East,Card
+155,44,2026-10-09,Electronics,Phone,4,1447,5788,North,Card
+156,24,2026-07-23,Home,Chair,3,1256,3768,East,UPI
+157,59,2026-07-02,Books,Magazine,4,987,3948,North,Card
+158,32,2026-11-16,Toys,Action Figure,1,1928,1928,East,UPI
+159,52,2026-06-16,Home,Lamp,3,1963,5889,West,Cash
+160,62,2026-07-31,Toys,Board Game,1,226,226,North,UPI
+161,58,2026-06-04,Electronics,Phone,2,1229,2458,East,Cash
+162,52,2026-10-18,Toys,Puzzle,3,1108,3324,West,UPI
+163,12,2026-10-16,Toys,Action Figure,2,703,1406,North,Card
+164,39,2026-09-19,Clothing,Shirt,3,1922,5766,West,UPI
+165,2,2026-10-17,Clothing,Jeans,5,1501,7505,South,UPI
+166,3,2026-08-27,Clothing,Jacket,4,1113,4452,South,Cash
+167,56,2026-09-02,Toys,Puzzle,5,150,750,North,Card
+168,59,2026-08-01,Books,Notebook,2,1152,2304,East,UPI
+169,2,2026-06-28,Toys,Puzzle,4,1585,6340,North,Card
+170,2,2026-12-04,Books,Novel,3,1419,4257,West,UPI
+171,54,2026-08-21,Books,Novel,4,1420,5680,East,UPI
+172,1,2026-07-17,Clothing,Jeans,1,1849,1849,South,Card
+173,19,2026-10-27,Home,Lamp,4,878,3512,East,UPI
+174,2,2026-11-29,Electronics,Headphones,1,1530,1530,South,Card
+175,53,2026-07-29,Clothing,Shirt,4,1892,7568,East,UPI
+176,44,2026-12-03,Clothing,Shirt,1,913,913,East,Cash
+177,32,2026-09-29,Home,Lamp,2,1736,3472,East,Card
+178,70,2026-10-24,Electronics,Phone,5,1528,7640,West,UPI
+179,32,2026-07-24,Toys,Doll,3,1469,4407,West,UPI
+180,68,2026-07-24,Toys,Puzzle,4,1745,6980,North,Cash
+181,55,2026-08-21,Clothing,Jacket,5,519,2595,North,Card
+182,75,2026-07-15,Electronics,Phone,3,1305,3915,South,UPI
+183,56,2026-11-23,Clothing,Shirt,3,1082,3246,West,Cash
+184,17,2026-11-13,Books,Magazine,1,924,924,South,UPI
+185,38,2026-08-05,Clothing,Jeans,2,1124,2248,North,Card
+186,24,2026-06-11,Clothing,Shirt,2,1954,3908,South,UPI
+187,69,2026-07-20,Toys,Puzzle,5,666,3330,North,UPI
+188,70,2026-12-01,Toys,Board Game,2,470,940,West,UPI
+189,11,2026-09-05,Toys,Board Game,4,1035,4140,East,UPI
+190,16,2026-06-04,Books,Comics,2,760,1520,West,Cash
+191,73,2026-07-19,Toys,Board Game,5,1554,7770,South,Cash
+192,59,2026-07-26,Electronics,Headphones,2,1068,2136,South,Card
+193,70,2026-09-12,Home,Cushion,4,1432,5728,West,Cash
+194,3,2026-06-01,Electronics,Headphones,1,1260,1260,West,Cash
+195,20,2026-09-07,Electronics,Laptop,5,301,1505,North,Card
+196,59,2026-06-02,Toys,Doll,1,1559,1559,South,Cash
+197,36,2026-09-13,Home,Lamp,1,412,412,South,Cash
+198,19,2026-09-20,Home,Lamp,1,216,216,West,Card
+199,67,2026-08-29,Home,Lamp,3,1789,5367,East,Card
+200,19,2026-07-13,Books,Notebook,3,1036,3108,South,Card

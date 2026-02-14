@@ -1,0 +1,101 @@
+patient_id,age,gender,disease,admission_date,discharge_date,treatment_cost,department,outcome
+1,52,female,Diabetes,2024-01-10,2024-01-14,61573,Pulmonology,Not Recovered
+2,93,female,Asthma,2024-01-07,2024-01-19,64101,Oncology,Recovered
+3,15,female,Cancer,2024-01-14,2024-01-22,31646,Oncology,Not Recovered
+4,72,Male,Cancer,2024-01-12,2024-01-25,109185,Cardiology,Recovered
+5,61,Male,Cancer,2024-01-04,2024-01-13,28049,Cardiology,Recovered
+6,21,Male,Cancer,2024-01-02,2024-01-09,103116,Oncology,Recovered
+7,83,Male,Cancer,2024-01-05,2024-01-06,102379,Oncology,Not Recovered
+8,87,Male,Flu,2024-01-13,2024-01-16,73385,Pulmonology,Recovered
+9,75,Male,Heart Disease,2024-01-14,2024-01-27,131131,Pulmonology,Recovered
+10,75,Male,Cancer,2024-01-10,2024-01-22,176230,Oncology,Recovered
+11,88,Male,Diabetes,2024-01-04,2024-01-18,28289,Pulmonology,Recovered
+12,24,Male,Diabetes,2024-01-13,2024-01-22,115226,Pulmonology,Recovered
+13,3,female,Diabetes,2024-01-10,2024-01-22,105793,General,Recovered
+14,22,Male,Diabetes,2024-01-08,2024-01-09,14823,Pulmonology,Recovered
+15,53,female,Flu,2024-01-13,2024-01-22,196232,Cardiology,Not Recovered
+16,2,female,Diabetes,2024-01-15,2024-01-23,46975,Pulmonology,Not Recovered
+17,88,female,Cancer,2024-01-05,2024-01-06,14540,Pulmonology,Recovered
+18,30,Male,Asthma,2024-01-04,2024-01-10,21364,Oncology,Recovered
+19,38,Male,Diabetes,2024-01-11,2024-01-16,140683,Cardiology,Recovered
+20,2,Male,Flu,2024-01-06,2024-01-12,32663,Pulmonology,Recovered
+21,64,Male,Flu,2024-01-06,2024-01-16,56991,Pulmonology,Recovered
+22,60,female,Diabetes,2024-01-04,2024-01-16,193751,General,Recovered
+23,21,Male,Asthma,2024-01-13,2024-01-26,109182,Pulmonology,Recovered
+24,33,Male,Diabetes,2024-01-10,2024-01-23,167049,Pulmonology,Not Recovered
+25,76,Male,Flu,2024-01-05,2024-01-18,99704,General,Recovered
+26,58,Male,Heart Disease,2024-01-12,2024-01-17,54115,Oncology,Recovered
+27,22,Male,Cancer,2024-01-06,2024-01-12,96007,Pulmonology,Recovered
+28,89,female,Flu,2024-01-05,2024-01-10,196962,General,Recovered
+29,49,Male,Diabetes,2024-01-06,2024-01-17,154143,Cardiology,Recovered
+30,91,female,Cancer,2024-01-08,2024-01-20,195347,Oncology,Recovered
+31,59,Male,Diabetes,2024-01-10,2024-01-15,16938,Cardiology,Recovered
+32,42,female,Diabetes,2024-01-08,2024-01-12,171267,Cardiology,Recovered
+33,92,Male,Heart Disease,2024-01-14,2024-01-17,96680,General,Recovered
+34,60,Male,Cancer,2024-01-06,2024-01-09,9000,Pulmonology,Recovered
+35,80,female,Cancer,2024-01-11,2024-01-15,106042,General,Recovered
+36,15,female,Heart Disease,2024-01-11,2024-01-20,98610,General,Recovered
+37,62,female,Flu,2024-01-08,2024-01-10,108691,General,Recovered
+38,62,Male,Diabetes,2024-01-15,2024-01-24,43304,General,Recovered
+39,47,female,Asthma,2024-01-11,2024-01-12,74449,Oncology,Not Recovered
+40,62,Male,Diabetes,2024-01-06,2024-01-20,87986,Pulmonology,Recovered
+41,51,Male,Diabetes,2024-01-04,2024-01-05,156836,Cardiology,Recovered
+42,55,female,Flu,2024-01-08,2024-01-13,113940,Cardiology,Recovered
+43,64,female,Diabetes,2024-01-14,2024-01-20,43494,Pulmonology,Recovered
+44,3,Male,Heart Disease,2024-01-12,2024-01-18,8373,Cardiology,Recovered
+45,51,Male,Heart Disease,2024-01-12,2024-01-15,148233,Pulmonology,Recovered
+46,7,female,Cancer,2024-01-03,2024-01-10,102532,Cardiology,Not Recovered
+47,21,female,Asthma,2024-01-13,2024-01-22,97658,General,Not Recovered
+48,73,female,Diabetes,2024-01-10,2024-01-21,128633,Cardiology,Not Recovered
+49,39,Male,Diabetes,2024-01-11,2024-01-23,105386,Pulmonology,Recovered
+50,18,Male,Flu,2024-01-11,2024-01-21,32350,Pulmonology,Recovered
+51,4,Male,Heart Disease,2024-01-13,2024-01-21,98008,Pulmonology,Recovered
+52,89,Male,Asthma,2024-01-02,2024-01-08,99297,Pulmonology,Recovered
+53,60,Male,Cancer,2024-01-14,2024-01-26,30351,Pulmonology,Recovered
+54,14,Male,Heart Disease,2024-01-07,2024-01-15,93668,Oncology,Not Recovered
+55,9,female,Cancer,2024-01-08,2024-01-20,119585,Oncology,Recovered
+56,90,Male,Flu,2024-01-15,2024-01-20,151377,Cardiology,Not Recovered
+57,53,Male,Flu,2024-01-14,2024-01-22,80353,Pulmonology,Recovered
+58,2,Male,Diabetes,2024-01-09,2024-01-19,70953,Cardiology,Not Recovered
+59,84,female,Asthma,2024-01-11,2024-01-23,62458,Pulmonology,Recovered
+60,92,Male,Cancer,2024-01-10,2024-01-14,25358,Pulmonology,Recovered
+61,60,Male,Heart Disease,2024-01-03,2024-01-13,8267,Oncology,Recovered
+62,71,female,Flu,2024-01-12,2024-01-20,87745,Oncology,Recovered
+63,44,Male,Diabetes,2024-01-11,2024-01-21,94588,General,Recovered
+64,8,Male,Diabetes,2024-01-03,2024-01-15,43513,Oncology,Not Recovered
+65,47,Male,Cancer,2024-01-06,2024-01-08,162164,General,Recovered
+66,35,Male,Flu,2024-01-14,2024-01-26,16338,General,Recovered
+67,78,Male,Asthma,2024-01-06,2024-01-18,136484,General,Recovered
+68,81,female,Flu,2024-01-07,2024-01-12,12543,General,Recovered
+69,36,female,Cancer,2024-01-04,2024-01-13,110891,General,Recovered
+70,50,female,Cancer,2024-01-09,2024-01-13,169568,Cardiology,Recovered
+71,4,Male,Flu,2024-01-14,2024-01-25,65692,Oncology,Recovered
+72,2,Male,Cancer,2024-01-02,2024-01-08,49425,General,Recovered
+73,6,Male,Flu,2024-01-07,2024-01-08,43756,Pulmonology,Recovered
+74,54,female,Heart Disease,2024-01-05,2024-01-14,23888,Oncology,Recovered
+75,4,Male,Flu,2024-01-02,2024-01-03,171807,Oncology,Recovered
+76,54,Male,Flu,2024-01-08,2024-01-13,52295,General,Not Recovered
+77,93,female,Cancer,2024-01-10,2024-01-14,119352,Cardiology,Recovered
+78,63,Male,Cancer,2024-01-14,2024-01-27,88042,General,Recovered
+79,18,female,Diabetes,2024-01-05,2024-01-17,90999,Cardiology,Recovered
+80,90,female,Diabetes,2024-01-05,2024-01-18,22955,Pulmonology,Recovered
+81,44,female,Heart Disease,2024-01-07,2024-01-20,42841,Oncology,Not Recovered
+82,34,Male,Diabetes,2024-01-13,2024-01-27,75640,Pulmonology,Recovered
+83,74,Male,Flu,2024-01-04,2024-01-07,170983,Cardiology,Recovered
+84,62,Male,Cancer,2024-01-14,2024-01-27,195103,Cardiology,Recovered
+85,14,Male,Diabetes,2024-01-13,2024-01-19,143429,Pulmonology,Recovered
+86,95,Male,Diabetes,2024-01-07,2024-01-09,168551,Cardiology,Recovered
+87,48,Male,Heart Disease,2024-01-08,2024-01-11,66476,Pulmonology,Recovered
+88,15,Male,Heart Disease,2024-01-12,2024-01-17,49811,Oncology,Recovered
+89,72,female,Flu,2024-01-11,2024-01-20,172280,Pulmonology,Recovered
+90,78,Male,Cancer,2024-01-11,2024-01-13,156222,Oncology,Recovered
+91,87,female,Heart Disease,2024-01-04,2024-01-14,76180,Pulmonology,Recovered
+92,62,Male,Diabetes,2024-01-08,2024-01-16,179358,Cardiology,Recovered
+93,40,Male,Cancer,2024-01-15,2024-01-29,117856,Pulmonology,Recovered
+94,85,Male,Cancer,2024-01-04,2024-01-06,73450,Cardiology,Recovered
+95,80,female,Diabetes,2024-01-14,2024-01-25,157424,Pulmonology,Not Recovered
+96,82,female,Heart Disease,2024-01-14,2024-01-27,191141,Pulmonology,Recovered
+97,53,female,Diabetes,2024-01-03,2024-01-08,116888,General,Recovered
+98,24,female,Cancer,2024-01-13,2024-01-20,115448,Cardiology,Recovered
+99,26,Male,Asthma,2024-01-15,2024-01-23,19397,General,Not Recovered
+100,89,female,Asthma,2024-01-11,2024-01-12,177627,Cardiology,Recovered
