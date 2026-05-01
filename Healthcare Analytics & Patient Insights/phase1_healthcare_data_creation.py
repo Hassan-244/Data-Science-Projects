@@ -39,3 +39,4 @@ df.to_csv("healthcare_data.csv", index=False)
 
 print("✅ Healthcare dataset created successfully!")
 print(df.head())
+
